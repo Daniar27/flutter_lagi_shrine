@@ -42,10 +42,12 @@ the License.
 
 
 Modifikasi
-![WhatsApp Image 2024-02-24 at 17 ![WhatsApp Image 2024-02-24 at 17 24 08](https://github.com/Daniar27/flutter_lagi_shrine/assets/85428283/e53afc0f-e53e-4144-9d5a-703284cc63ca)
-![WhatsApp Image 2024-02-24 at 17 24 08 (1)](https://github.com/Daniar27/flutter_lagi_shrine/assets/85428283/d165c2ff-8b72-4190-89f6-d7a8841630dd)
-![WhatsApp Image 2024-02-24 at 17 24 07](https://github.com/Daniar27/flutter_lagi_shrine/assets/85428283/9162d037-b110-4479-a762-85fe53042a11)
-24 06](https://github.com/Daniar27/flutter_lagi_shrine/assets/85428283/85021369-3955-4523-aae3-7a9b2654dadd)
+
+![WhatsApp Image 2024-02-24 at 17 24 06](https://github.com/Daniar27/flutter_lagi_shrine/assets/85428283/7102306d-42d7-4a44-bfb4-7a5aa0242286)
+![WhatsApp Image 2024-02-24 at 17 24 07](https://github.com![WhatsApp Image 2024-02-24 at 17 24 08 (1)](https://github.com/Daniar27/flutter_lagi_shrine/assets/85428283/04a95c31-f842-49c3-a993-cf99c9428cb7)
+/Daniar27/flutter_lagi_shrine/![WhatsApp Image 2024-02-24 at 17 24 08](https://github.com/Daniar27/flutter_lagi_shrine/assets/85428283/1715ab56-2b21-49c8-b495-6c13d7d9fdab)
+assets/85428283/2b6d1661-52f1-458b-823e-cf0029c02fc0)
+
 
 
 
