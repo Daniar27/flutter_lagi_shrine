@@ -28,8 +28,8 @@ class ProductsRepository {
         category: Category.accessories,
         id: 1,
         isFeatured: true,
-        name: 'Stella sunglasses',
-        price: 58,
+        name: 'Daniar Miftah Ramdhani',
+        price: 221511047,
       ),
       Product(
         category: Category.accessories,

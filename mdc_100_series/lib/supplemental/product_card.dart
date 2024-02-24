@@ -40,37 +40,45 @@ class ProductCard extends StatelessWidget {
       fit: BoxFit.cover,
     );
 
-    return Column(
-      mainAxisAlignment: MainAxisAlignment.center,
-      crossAxisAlignment: CrossAxisAlignment.center,
-      children: <Widget>[
-        AspectRatio(
-          aspectRatio: imageAspectRatio,
-          child: imageWidget,
-        ),
-        SizedBox(
-          height: kTextBoxHeight * MediaQuery.of(context).textScaleFactor,
-          width: 121.0,
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.end,
-            crossAxisAlignment: CrossAxisAlignment.center,
-            children: <Widget>[
-              Text(
-                product.name,
-                style: theme.textTheme.labelLarge,
-                softWrap: false,
-                overflow: TextOverflow.ellipsis,
-                maxLines: 1,
-              ),
-              const SizedBox(height: 4.0),
-              Text(
-                formatter.format(product.price),
-                style: theme.textTheme.bodySmall,
-              ),
-            ],
+    return Container(
+      decoration: BoxDecoration(
+        border: Border.all(color: Colors.lightBlue, width: 2),
+        borderRadius: BorderRadius.circular(16)
+      ),
+      padding: EdgeInsets.all(4),
+      clipBehavior: Clip.antiAlias,
+      child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        crossAxisAlignment: CrossAxisAlignment.center,
+        children: <Widget>[
+          AspectRatio(
+            aspectRatio: imageAspectRatio,
+            child: imageWidget,
           ),
-        ),
-      ],
+          SizedBox(
+            height: kTextBoxHeight * MediaQuery.of(context).textScaleFactor,
+            width: 121.0,
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.end,
+              crossAxisAlignment: CrossAxisAlignment.center,
+              children: <Widget>[
+                Text(
+                  product.name,
+                  style: theme.textTheme.labelLarge,
+                  softWrap: false,
+                  overflow: TextOverflow.ellipsis,
+                  maxLines: 1,
+                ),
+                const SizedBox(height: 4.0),
+                Text(
+                  formatter.format(product.price),
+                  style: theme.textTheme.bodySmall,
+                ),
+              ],
+            ),
+          ),
+        ],
+      ),
     );
   }
 }
