@@ -39,3 +39,13 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
 License for the specific language governing permissions and limitations under
 the License.
+
+
+Modifikasi
+![WhatsApp Image 2024-02-24 at 17 ![WhatsApp Image 2024-02-24 at 17 24 08](https://github.com/Daniar27/flutter_lagi_shrine/assets/85428283/e53afc0f-e53e-4144-9d5a-703284cc63ca)
+![WhatsApp Image 2024-02-24 at 17 24 08 (1)](https://github.com/Daniar27/flutter_lagi_shrine/assets/85428283/d165c2ff-8b72-4190-89f6-d7a8841630dd)
+![WhatsApp Image 2024-02-24 at 17 24 07](https://github.com/Daniar27/flutter_lagi_shrine/assets/85428283/9162d037-b110-4479-a762-85fe53042a11)
+24 06](https://github.com/Daniar27/flutter_lagi_shrine/assets/85428283/85021369-3955-4523-aae3-7a9b2654dadd)
+
+
+
